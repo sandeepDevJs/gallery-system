@@ -1,18 +1,22 @@
 # gallery-system
 A Simple Gallery System built in PHP with OOP (Object Oriented Programming) concepts. Abstractions And Inheritance are Used.
 
-#Features
-1) Paginated Photos.
-2) Administrator Control.
-3) CRUD Operations on Photos and Users.
-4) Dashboard
-5) Graph Visualisation.
+<h2>Features</h2>
+<ul>
+<li> Paginated Photos.</li>
+<li> Administrator Control.</li>
+<li> CRUD Operations on Photos and Users.</li>
+<li> Dashboard.</li>
+<li> Graph Visualisation.</li>
+</ul>
 
-#Technologies And Frameworks
-1) Bootstrap.
-2) Dropjs for File uploads.
-3) jquery.
-4) Google's Graph visualisation API.
+<h2>Technologies And Frameworks</h2>
+<ul>
+<li> Bootstrap.</li>
+<li> Dropjs for File uploads.</li>
+<li> jquery.</li>
+<li> Google's Graph visualisation API.</li>
+</ul>
 
 <h2>How To Install?</h2>
 <ul>
