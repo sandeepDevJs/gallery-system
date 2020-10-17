@@ -5,11 +5,14 @@ A Simple Gallery System built in PHP with OOP (Object Oriented Programming) conc
 1) Paginated Photos.
 2) Administrator Control.
 3) CRUD Operations on Photos and Users.
+4) Dashboard
+5) Graph Visualisation.
 
 #Technologies And Frameworks
 1) Bootstrap.
 2) Dropjs for File uploads.
 3) jquery.
+4) Google's Graph visualisation API.
 
 <h2>How To Install?</h2>
 <ul>
